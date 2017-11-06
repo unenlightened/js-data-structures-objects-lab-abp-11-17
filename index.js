@@ -6,3 +6,6 @@ function destructivelyUpdateDriverWithKeyAndValue(driver, key, value){
   return driver;
 }
 
+function updateDriverWithKeyAndValue(driver, key, value){
+
+}
